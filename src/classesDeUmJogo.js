@@ -9,16 +9,6 @@ class aventuraHeroi {
 
     // Método dentro da classe também chamado de Função
     atacar() {
-
-        if (this.mago) {
-            mago.tipoAtaque;
-        } else if (this.guerreiro) {
-            guerreiro.tipoAtaque;
-        } else if (this.monge) {
-            monge.tipoAtaque;
-        } else if (this.ninja) {
-            ninja.tipoAtaque;
-        }
         console.log();
         console.log(`O ${this.tipoHabilidade} atacou usando ${this.tipoAtaque}`);
         console.log(`Meu nome é ${this.nomeHeroi} e tenho ${this.idadeHeroi} anos!`);
