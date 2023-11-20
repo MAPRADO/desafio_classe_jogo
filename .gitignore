@@ -1,0 +1,5 @@
+# ignore all .pdf files
+*.pdf
+id_classeJogo
+id_classeJogo.pub
+
